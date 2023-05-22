@@ -1,12 +1,3 @@
----
-name: "\bKPT review"
-about: KPT review template
-title: "[KPT] KPT issue title"
-labels: ''
-assignees: ''
-
----
-
 # Keep (유지할 항목)
 - item
 - item

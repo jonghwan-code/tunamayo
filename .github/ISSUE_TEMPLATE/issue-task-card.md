@@ -1,12 +1,3 @@
----
-name: Issue Task Card
-about: Issue Task Card
-title: "[Task] task 제목을 적어주세요!"
-labels: ''
-assignees: ''
-
----
-
 ### ISSUE
 - Group : `client`, `server`, `sr`, `general`
 - Type : `bug`, `feature`, `delete`, `modify`
